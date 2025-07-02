@@ -71,6 +71,7 @@ When you run the tool for the first time, it will guide you through configuratio
 1. You'll be prompted to enter your OpenRouter API key
 2. The tool will test the API key to ensure it's valid
 3. Configuration will be saved to `config.json` (automatically ignored by git)
+4. If needed, adapt general_prompt.txt for your specific needs
 
 ### Manual Configuration
 If you prefer to set up configuration manually:
