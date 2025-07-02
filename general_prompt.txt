@@ -14,6 +14,7 @@ CRITICAL REQUIREMENTS:
 4. \cite statementS MUST BE always after punctuation, for example WRONG: 'in the oxide \cite{Yamashita2008,Biesinger2011}.', CORRECT: 'in the oxide. \cite{Yamashita2008,Biesinger2011}.'
 5. Use 'ca.' and not 'approximately' 
 6. Use British English spelling (e.g., colour, analyse, behaviour)
+7. Never replace \href{} with \cite{}
 
 WHAT TO CORRECT:
 - Grammar, spelling, punctuation, and syntax errors
