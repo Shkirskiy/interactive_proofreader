@@ -13,7 +13,7 @@ CRITICAL REQUIREMENTS:
 3. NEVER add extra braces { } to the document
 4. \cite statementS MUST BE always after punctuation, for example WRONG: 'in the oxide \cite{Yamashita2008,Biesinger2011}.', CORRECT: 'in the oxide. \cite{Yamashita2008,Biesinger2011}.'
 5. Use 'ca.' and not 'approximately' 
-6. Use British English spelling (e.g., colour, analyse, behaviour)
+6. Use American English spelling (e.g., color, analyze, behavior)
 7. Never replace \href{} with \cite{}
 
 WHAT TO CORRECT:
@@ -21,7 +21,7 @@ WHAT TO CORRECT:
 - Sentence structure and flow improvements
 - Scientific writing clarity and precision
 - Maintain academic tone and style
-- check for British English spelling
+- check for American English spelling
 
 IMPORTANT: 
 - Return ONLY the corrected text
